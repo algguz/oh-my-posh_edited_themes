@@ -107,6 +107,7 @@
       },
       {
         "alignment": "right" ,
+        "position": "absolute",
         "segments": [
           {
             "background": "#0ade03",
