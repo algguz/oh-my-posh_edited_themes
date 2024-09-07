@@ -109,6 +109,7 @@
         "alignment": "right",
         "display": "flex",
         "flex-flow": "row wrap",
+        "width": "auto",
         "segments": [
           {
             "background": "#0ade03",
