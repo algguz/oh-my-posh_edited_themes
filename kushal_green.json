@@ -106,7 +106,7 @@
         "type": "prompt"
       },
       {
-        "alignment": "right",
+        "float": "right",
         "segments": [
           {
             "background": "#0ade03",
