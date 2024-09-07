@@ -106,8 +106,8 @@
         "type": "prompt"
       },
       {
+        "float": "right" ,
         "width": "100%",
-        "alignment": "right" ,
         "segments": [
           {
             "background": "#0ade03",
