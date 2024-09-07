@@ -106,10 +106,9 @@
         "type": "prompt"
       },
       {
-        "alignment": "right" ,
-        "position": "absolute",
-        "right": "0",
-        "float":"right",
+        "alignment": "right",
+        "display": "flex",
+        "flex-flow": "row wrap",
         "segments": [
           {
             "background": "#0ade03",
