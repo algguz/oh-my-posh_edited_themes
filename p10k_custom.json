@@ -79,7 +79,7 @@
             "threshold": 0
           },
           "style": "plain",
-          "template": "󰔟 {{ .FormattedMs }}",
+          "template": "󰔟 {{ .FormattedMs }} ",
           "trailing_diamond": "\ue0b4",
           "type": "executiontime"
         },
