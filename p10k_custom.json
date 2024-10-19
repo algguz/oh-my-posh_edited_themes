@@ -44,7 +44,7 @@
             "template": " \ue7a8 {{ .Full }} "
           },
           {
-            "foreground": "#9ab298",
+            "foreground": "#ffffff",
             "foreground_templates": [
               "{{ if or (.Working.Changed) (.Staging.Changed) }}#30b116{{ end }}",
               "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#30b116{{ end }}",
