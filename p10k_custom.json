@@ -82,20 +82,6 @@
           "template": "󰔟 {{ .FormattedMs }} ",
           "trailing_diamond": "\ue0b4",
           "type": "executiontime"
-        },
-        {
-          "display": "flex",
-          "foreground": "#0ADE03",
-          "foreground_templates": [
-            "{{ if gt .Code 0 }}#E44141{{ end }}"
-          ],
-          "leading_diamond": "\ue0b6",
-          "properties": {
-            "always_enabled": true
-          },
-          "style": "plain",
-          "template": "{{ if gt .Code 0 }}\uf00d{{ else }}\uf00c{{ end }} ",
-          "type": "status"
         }
       ],
       "type": "prompt"
